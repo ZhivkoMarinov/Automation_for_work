@@ -11,7 +11,6 @@ class Mouse_functions:
 		pyautogui.click()
 		time.sleep(0.5)
 
-
 	def open_audio_video(self):
 		pyautogui.moveTo(980, 360)
 		time.sleep(0.5)
