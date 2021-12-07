@@ -6,7 +6,8 @@ from mouse_functions import Mouse_functions
 
 #enter valid browser path
 browser = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s" #default chrome path for windows10
-#browser = '/usr/bin/google-chrome'                                        #default chrome path for ubuntu 20.04
+
+#browser = '/usr/bin/google-chrome' #default chrome path for ubuntu 20.04
 
 webbrowser.get(browser)
 
