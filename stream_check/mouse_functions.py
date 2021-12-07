@@ -6,7 +6,7 @@ class Mouse_functions:
 
 
 	def open_menu(self):
-		pyautogui.moveTo(660, 90)
+		pyautogui.moveTo(1660, 90)
 		time.sleep(0.5)
 		pyautogui.click()
 		time.sleep(0.5)
