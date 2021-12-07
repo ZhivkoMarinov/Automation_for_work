@@ -11,12 +11,7 @@ browser = "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe %s" #defa
 webbrowser.get(browser)
 
 #links to check
-urls = ["https://de-games.svmsrv.com/live/?gameToken=bj-1&lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3FoperatorToken%3D654be709f71140f7aa65dcd8cede80d4%26playerToken%3D7658939003%26s%3Dlive%26enableRefresh%3D1&language=en&operatorToken=654be709f71140f7aa65dcd8cede80d4&playerToken=7658939003&host=https://de-lce.svmsrv.com&enableRefresh=",
-        "https://de-games.svmsrv.com/live/?gameToken=rl-3&lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3FoperatorToken%3D654be709f71140f7aa65dcd8cede80d4%26playerToken%3D7658939003%26s%3Dlive%26enableRefresh%3D1&language=en&operatorToken=654be709f71140f7aa65dcd8cede80d4&playerToken=7658939003&host=https://de-lce.svmsrv.com&enableRefresh=",
-        "https://de-games.svmsrv.com/live/?gameToken=ab-1&lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3FoperatorToken%3D654be709f71140f7aa65dcd8cede80d4%26playerToken%3D7658939003%26s%3Dlive%26enableRefresh%3D1&language=en&operatorToken=654be709f71140f7aa65dcd8cede80d4&playerToken=7658939003&host=https://de-lce.svmsrv.com&enableRefresh=",
-        "https://de-games.svmsrv.com/live/?gameToken=dt-1&lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3FoperatorToken%3D654be709f71140f7aa65dcd8cede80d4%26playerToken%3D7658939003%26s%3Dlive%26enableRefresh%3D1&language=en&operatorToken=654be709f71140f7aa65dcd8cede80d4&playerToken=7658939003&host=https://de-lce.svmsrv.com&enableRefresh=",
-        "https://de-games.svmsrv.com/live/?gameToken=tpfo-1&lobbyUrl=https%3A%2F%2Fde-lb.svmsrv.com%2F%3FoperatorToken%3D654be709f71140f7aa65dcd8cede80d4%26playerToken%3D7658939003%26s%3Dlive%26enableRefresh%3D1&language=en&operatorToken=654be709f71140f7aa65dcd8cede80d4&playerToken=7658939003&host=https://de-lce.svmsrv.com&enableRefresh="
-        ]
+urls = ['www.google.com', 'www.amazon.com']
 
 #minutes, which you want to start auto-check. Value in range(0, 59)
 x = 12
